@@ -1,0 +1,1 @@
+g++ -std=c++11 model.cc sample.cc -o sample
